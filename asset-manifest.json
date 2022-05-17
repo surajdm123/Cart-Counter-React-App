@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cart-counter-react-app/static/css/main.6b38c824.css",
-    "main.js": "/cart-counter-react-app/static/js/main.c2a78c6b.js",
-    "static/js/787.5863b875.chunk.js": "/cart-counter-react-app/static/js/787.5863b875.chunk.js",
-    "index.html": "/cart-counter-react-app/index.html",
-    "main.6b38c824.css.map": "/cart-counter-react-app/static/css/main.6b38c824.css.map",
-    "main.c2a78c6b.js.map": "/cart-counter-react-app/static/js/main.c2a78c6b.js.map",
-    "787.5863b875.chunk.js.map": "/cart-counter-react-app/static/js/787.5863b875.chunk.js.map"
+    "main.css": "/Cart-Counter-React-App/static/css/main.6b38c824.css",
+    "main.js": "/Cart-Counter-React-App/static/js/main.ee5dceda.js",
+    "static/js/787.5863b875.chunk.js": "/Cart-Counter-React-App/static/js/787.5863b875.chunk.js",
+    "index.html": "/Cart-Counter-React-App/index.html",
+    "main.6b38c824.css.map": "/Cart-Counter-React-App/static/css/main.6b38c824.css.map",
+    "main.ee5dceda.js.map": "/Cart-Counter-React-App/static/js/main.ee5dceda.js.map",
+    "787.5863b875.chunk.js.map": "/Cart-Counter-React-App/static/js/787.5863b875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b38c824.css",
-    "static/js/main.c2a78c6b.js"
+    "static/js/main.ee5dceda.js"
   ]
 }
